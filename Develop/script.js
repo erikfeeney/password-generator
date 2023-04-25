@@ -1,4 +1,8 @@
 // Assignment code here
+const lowercaseLetters = "abcdefghijklmnopqrstuvwxyz";
+const uppercaseLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const numbers = "0123456789";
+const symbols = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
 
 
 // Get references to the #generate element
